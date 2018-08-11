@@ -3,3 +3,27 @@ This project is configured with below gihub account.
 https://github.com/ManvirHBTU/AdminPortal.git
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+
+
+C:\Users\Manvir\workspace\SpringBoot> 
+
+git config --global user.name "ManvirHBTU"
+git config --global user.email m***i@gmail.com
+git clone https://github.com/ManvirHBTU/AdminPortal.git
+
+cd AdminPortal/
+C:\Users\Manvir\workspace\SpringBoot\AdminPortal>
+
+git add Test.txt
+git commit -m "First commit" Test.txt
+git push -u origin master
+git status
+git commit -m "Second commit" Test.txt
+git push -u origin master
+git status
+
+
+
+
+
