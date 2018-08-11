@@ -1,4 +1,4 @@
 # AdminPortal
 
 
-AdminPortal is a new Spring Boot and Angular project.
+AdminPortal is a new Spring Boot and Angular 2 project.
