@@ -5,8 +5,8 @@ https://github.com/ManvirHBTU/AdminPortal.git
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 
-
-C:\Users\Manvir\workspace\SpringBoot> 
+Op
+C:\Users\Manvir\workspace\SpringBoot> "Open Git Bash here" --- 
 
 git config --global user.name "ManvirHBTU"
 git config --global user.email m***i@gmail.com
