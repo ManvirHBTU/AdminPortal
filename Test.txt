@@ -2,10 +2,11 @@ This project is configured with below gihub account.
 
 https://github.com/ManvirHBTU/AdminPortal.git
 
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
+==============================================================
+Welcome Angular 2 and Spring Boot Project.
+==============================================================
 
-Op
 C:\Users\Manvir\workspace\SpringBoot> "Open Git Bash here" --- 
 
 git config --global user.name "ManvirHBTU"
